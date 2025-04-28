@@ -1,5 +1,6 @@
 # Semantic_Spotter_
 Semantic Spotter Project Submission
+
 **1. Background**
 This project demonstrate "Build a RAG System" in insurance domain using LangChain.
 
