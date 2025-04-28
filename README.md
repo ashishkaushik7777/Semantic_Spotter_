@@ -2,10 +2,13 @@
 Semantic Spotter Project Submission
 **1. Background**
 This project demonstrate "Build a RAG System" in insurance domain using LangChain.
+
 **2. Problem Statement**
 The goal of the project is to build a robust generative search system capable of effectively and accurately answering questions from a bunch of policy documents.
+
 **3. Document**
 1.	The policy documents can be found in policy+documents.
+   
 **4. Approach**
 LangChain is a framework that simplifies the development of LLM applications LangChain offers a suite of tools, components, and interfaces that simplify the construction of LLM-centric applications. LangChain enables developers to build applications that can generate creative and contextually relevant content LangChain provides an LLM class designed for interfacing with various language model providers, such as OpenAI, Cohere, and Hugging Face.
 LangChain's versatility and flexibility enable seamless integration with various data sources, making it a comprehensive solution for creating advanced language model-powered applications.
